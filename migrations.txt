@@ -1,0 +1,1 @@
+yii migrate/create create_profiles_table --fields=id_inst:integer(11),username:string(255),text:string(2500),link:string(255),created_time:integer(11)
